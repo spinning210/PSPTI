@@ -1,0 +1,5 @@
+jupyter lab --ip=0.0.0.0 --port=8888 \
+>                                  --NotebookApp.token='1q1q!Q!Q' \
+>                                  --allow-root \
+>                                 --no-browser \
+>                                --ContentsManager.allow_hidden=True
